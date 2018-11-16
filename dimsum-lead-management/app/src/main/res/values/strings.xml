@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dimsum</string>
+    <string name="title_activity_manager">Salesperson Management</string>
+    <string name="main_welcome">Welcome to Dimsum</string>
+    <string name="main_managerLogin">Manager Login</string>
+    <string name="main_salespersonLogin">Salesperson Login</string>
+    <string name="salespeople_title">Salespeople</string>
+    <string name="leads_title">Leads</string>
+    <string name="edit_salesperson_title">Edit Salesperson</string>
+    <string name="add_salesperson_title">Add Salesperson</string>
+    <string name="username_hint">Username</string>
+    <string name="phone_hint">Phone</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+</resources>
